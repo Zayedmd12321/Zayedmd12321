@@ -90,9 +90,11 @@ Personal portfolio designed to replicate the macOS desktop interaction model.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Zayedmd12321&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api?username=Zayedmd12321&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayedmd12321&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF"/>
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayedmd12321&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
