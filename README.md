@@ -90,11 +90,7 @@ Personal portfolio designed to replicate the macOS desktop interaction model.
 
 <div align="center">
 
-<img height="160"
-     src="https://github-readme-stats.vercel.app/api?username=Zayedmd12321&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="160"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayedmd12321&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayedmd12321&theme=dark&hide_border=true" />
 
 </div>
 
