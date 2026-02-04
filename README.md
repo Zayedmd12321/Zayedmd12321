@@ -86,16 +86,6 @@ Personal portfolio designed to replicate the macOS desktop interaction model.
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayedmd12321&theme=dark&hide_border=true" />
-
-</div>
-
----
-
 ## Contact
 
 - GitHub: https://github.com/Zayedmd12321  
